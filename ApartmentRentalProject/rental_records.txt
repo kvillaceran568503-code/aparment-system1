@@ -1,0 +1,390 @@
+========================================
+ACTION: APPLICANT ADDED
+Tenant Name: KIM
+Age: 19
+Contact Number: 09510492355
+Apartment Type: 1-Bedroom
+Rental Duration: 2 Days
+Priority Level: Regular
+Assigned Unit: Not Assigned
+Rental Status: Waiting
+========================================
+
+========================================
+ACTION: MOVE-IN
+Tenant Name: kim
+Age: 18
+Contact: 0909
+Apartment Type: 1-Bedroom
+Number of Occupants: 3
+Rental Duration: 2 Days
+Priority: Regular Applicant
+Unit: B101
+Status: Waiting
+Total Rent: P800.00
+Amount Paid: P400.00
+Balance: P400.00
+Change: P0.00
+Payment Status: Downpayment
+========================================
+
+========================================
+ACTION: MOVE-IN
+Tenant Name: KIM
+Age: 60
+Contact: 0909090
+Apartment Type: Studio
+Number of Occupants: 2
+Rental Duration: 2 Months
+Priority: Senior Citizen
+Unit: S101
+Status: Waiting
+Original Rent: P16000.00
+Senior Discount: P3200.00
+Total Rent: P12800.00
+Amount Paid: P64000.00
+Balance: P0.00
+Change: P51200.00
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: MOVE-IN
+Tenant Name: KIM
+Age: 19
+Contact: 090900909
+Apartment Type: 1-Bedroom
+Number of Occupants: 1
+Rental Duration: 2 Days
+Priority: Regular Applicant
+Unit: B101
+Status: Waiting
+Original Rent: P800.00
+Senior Discount: P0.00
+Total Rent: P800.00
+Amount Paid: P900.00
+Balance: P0.00
+Change: P100.00
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: MOVE-OUT / CHECK-OUT
+Tenant Name: KIM
+Age: 19
+Contact: 090900909
+Apartment Type: 1-Bedroom
+Number of Occupants: 1
+Rental Duration: 2 Days
+Priority: Regular Applicant
+Unit: B101
+Status: Moved Out
+Original Rent: P800.00
+Senior Discount: P0.00
+Total Rent: P800.00
+Amount Paid: P900.00
+Balance: P0.00
+Change: P100.00
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: MOVE-IN
+Tenant Name: KAISER
+Age: 78
+Contact: 09090933
+Apartment Type: Studio
+Number of Occupants: 3
+Rental Duration: 3 Days
+Priority: Senior Citizen
+Unit: S101
+Status: Rented
+Original Rent: P400.00
+Senior Citizen Discount: P80.00
+Total Rent: P320.00
+Amount Paid: P320.00
+Balance: P0.00
+Change: P0.00
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: MOVE-IN
+Tenant Name: KENTH
+Age: 61
+Contact: 09090909
+Apartment Type: Studio
+Number of Occupants: 5
+Rental Duration: 5 Days
+Priority: Family
+Unit: S102
+Status: Rented
+Original Rent: P666.67
+Senior Citizen Discount: P0.00
+Total Rent: P666.67
+Amount Paid: P66666.00
+Balance: P0.00
+Change: P65999.33
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: MOVE-IN
+Tenant Name: ERIC
+Age: 67
+Contact: 090923234
+Apartment Type: Studio
+Number of Occupants: 4
+Rental Duration: 2 Days
+Priority: Senior Citizen
+Unit: S101
+Status: Rented
+Original Rent: P266.67
+Senior Citizen Discount: P53.33
+Total Rent: P213.34
+Amount Paid: P33333.00
+Balance: P0.00
+Change: P33119.66
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: CLEARED FROM CURRENT TABLE
+Tenant Name: ERIC
+Age: 67
+Contact: 090923234
+Apartment Type: Studio
+Number of Occupants: 4
+Rental Duration: 2 Days
+Priority: Senior Citizen
+Unit: S101
+Status: Rented
+Original Rent: P266.67
+Senior Citizen Discount: P53.33
+Total Rent: P213.34
+Amount Paid: P33333.00
+Balance: P0.00
+Change: P33119.66
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: CLEARED FROM CURRENT TABLE
+Tenant Name: MAE
+Age: 32
+Contact: 0932023
+Apartment Type: Studio
+Number of Occupants: 3
+Rental Duration: 23 Days
+Priority: Family
+Unit: Not Assigned
+Status: Waiting
+Original Rent: P3066.67
+Senior Citizen Discount: P0.00
+Total Rent: P3066.67
+Amount Paid: P0.00
+Balance: P3066.67
+Change: P0.00
+Payment Status: No Payment
+========================================
+
+========================================
+ACTION: CLEARED FROM CURRENT TABLE
+Tenant Name: KIM
+Age: 22
+Contact: 323232
+Apartment Type: Studio
+Number of Occupants: 2
+Rental Duration: 2 Days
+Priority: Regular Applicant
+Unit: Not Assigned
+Status: Waiting
+Original Rent: P266.67
+Senior Citizen Discount: P0.00
+Total Rent: P266.67
+Amount Paid: P0.00
+Balance: P266.67
+Change: P0.00
+Payment Status: No Payment
+========================================
+
+========================================
+ACTION: MOVE-IN
+Tenant Name: MAE
+Age: 67
+Contact: 0902300231
+Apartment Type: Studio
+Number of Occupants: 5
+Rental Duration: 4 Days
+Priority: Senior Citizen
+Unit: S101
+Status: Rented
+Original Rent: P533.33
+Senior Citizen Discount: P106.67
+Total Rent: P426.66
+Amount Paid: P500.00
+Balance: P0.00
+Change: P73.34
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: MOVE-IN
+Tenant Name: ERIC
+Age: 45
+Contact: 09232033
+Apartment Type: Studio
+Number of Occupants: 4
+Rental Duration: 4 Days
+Priority: Family
+Unit: S102
+Status: Rented
+Original Rent: P533.33
+Senior Citizen Discount: P0.00
+Total Rent: P533.33
+Amount Paid: P500.00
+Balance: P33.33
+Change: P0.00
+Payment Status: Downpayment
+========================================
+
+========================================
+ACTION: MOVE-IN
+Tenant Name: KIM VILLACERAN
+Age: 19
+Contact: 09510492355
+Apartment Type: Studio
+Number of Occupants: 4
+Rental Duration: 4 Days
+Priority: Regular Applicant
+Unit: S103
+Status: Rented
+Original Rent: P533.33
+Senior Citizen Discount: P0.00
+Total Rent: P533.33
+Amount Paid: P5333.00
+Balance: P0.00
+Change: P4799.67
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: MANUAL SAVE
+Tenant Name: MAE
+Age: 67
+Contact: 0902300231
+Apartment Type: Studio
+Number of Occupants: 5
+Rental Duration: 4 Days
+Priority: Senior Citizen
+Unit: S101
+Status: Rented
+Original Rent: P533.33
+Senior Citizen Discount: P106.67
+Total Rent: P426.66
+Amount Paid: P500.00
+Balance: P0.00
+Change: P73.34
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: MANUAL SAVE
+Tenant Name: ERIC
+Age: 45
+Contact: 09232033
+Apartment Type: Studio
+Number of Occupants: 4
+Rental Duration: 4 Days
+Priority: Family
+Unit: S102
+Status: Rented
+Original Rent: P533.33
+Senior Citizen Discount: P0.00
+Total Rent: P533.33
+Amount Paid: P500.00
+Balance: P33.33
+Change: P0.00
+Payment Status: Downpayment
+========================================
+
+========================================
+ACTION: MANUAL SAVE
+Tenant Name: KIM VILLACERAN
+Age: 19
+Contact: 09510492355
+Apartment Type: Studio
+Number of Occupants: 4
+Rental Duration: 4 Days
+Priority: Regular Applicant
+Unit: S103
+Status: Rented
+Original Rent: P533.33
+Senior Citizen Discount: P0.00
+Total Rent: P533.33
+Amount Paid: P5333.00
+Balance: P0.00
+Change: P4799.67
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: CLEARED FROM CURRENT TABLE
+Tenant Name: MAE
+Age: 67
+Contact: 0902300231
+Apartment Type: Studio
+Number of Occupants: 5
+Rental Duration: 4 Days
+Priority: Senior Citizen
+Unit: S101
+Status: Rented
+Original Rent: P533.33
+Senior Citizen Discount: P106.67
+Total Rent: P426.66
+Amount Paid: P500.00
+Balance: P0.00
+Change: P73.34
+Payment Status: Fully Paid
+========================================
+
+========================================
+ACTION: CLEARED FROM CURRENT TABLE
+Tenant Name: ERIC
+Age: 45
+Contact: 09232033
+Apartment Type: Studio
+Number of Occupants: 4
+Rental Duration: 4 Days
+Priority: Family
+Unit: S102
+Status: Rented
+Original Rent: P533.33
+Senior Citizen Discount: P0.00
+Total Rent: P533.33
+Amount Paid: P500.00
+Balance: P33.33
+Change: P0.00
+Payment Status: Downpayment
+========================================
+
+========================================
+ACTION: CLEARED FROM CURRENT TABLE
+Tenant Name: KIM VILLACERAN
+Age: 19
+Contact: 09510492355
+Apartment Type: Studio
+Number of Occupants: 4
+Rental Duration: 4 Days
+Priority: Regular Applicant
+Unit: S103
+Status: Rented
+Original Rent: P533.33
+Senior Citizen Discount: P0.00
+Total Rent: P533.33
+Amount Paid: P5333.00
+Balance: P0.00
+Change: P4799.67
+Payment Status: Fully Paid
+========================================
+
